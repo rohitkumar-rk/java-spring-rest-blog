@@ -39,7 +39,7 @@ import java.util.stream.IntStream;
 
 import static org.junit.Assert.*;
 
-@RunWith(SpringRu nner.class)
+@RunWith(SpringRunner.class)
 @SpringBootTest
 //@AutoConfigureMockMvc
 //@PrepareForTest(DatabaseLoader.class)
